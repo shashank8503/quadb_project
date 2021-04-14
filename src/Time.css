@@ -1,0 +1,29 @@
+.time {
+  display: flex;
+}
+.green1 {
+  color: #5dc7c2;
+  font-family: oswald, sans-serif;
+  font-weight: 400;
+  font-size: 40px;
+  display: block;
+}
+.black1 {
+  color: gray;
+  font-family: oswald, sans-serif;
+  text-align: center !important;
+  font-size: 20px;
+  display: block;
+}
+.slot1 {
+  text-align: center;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-bottom: 10px;
+}
+.white1 {
+    color: #fff;
+    font-family: Oswald,sans-serif;
+  font-weight: 400;
+  font-size: 60px;
+}

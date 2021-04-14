@@ -1,0 +1,136 @@
+.data1{
+    display: flex;
+   
+}
+.black2{
+    color: gray;
+    font-family: oswald, sans-serif;
+    text-align: center !important;
+    font-size: 20px;
+    display: block;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-left: 40px;
+    letter-spacing: 1px;
+}
+.con11{    
+    background-color: #2e3241;
+    box-sizing: border-box;
+    
+    text-align: center!important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 96%;
+    margin-left: 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom:15px;
+    
+    
+    display: flex
+    
+    
+
+}
+.white2{
+    color: #fff;
+    font-family: Oswald;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.2;
+    padding-right:35px;
+    padding-left: 75px;
+  
+}
+.white25{
+    color: #fff;
+    font-family: Oswald;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.2;
+    padding-right:31px;
+    padding-left: 84px;
+  
+
+}
+.white23{
+    color: #fff;
+    font-family: Oswald;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.2;
+    padding-right:55px;
+    padding-left: 20px;
+
+}
+.white24{
+    color: #fff;
+    font-family: Oswald;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.2;
+    padding-right:55px;
+    padding-left: 60px;
+
+}
+.green24{
+    color: #5dc7c2;
+    font-family: oswald, ;
+    font-weight: 400;
+    font-size: 24px;
+    display: block;
+    padding-left: 41px;
+    padding-right:45px;
+
+}
+.white234{
+    color: #fff;
+    font-family: Oswald;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.2;
+    padding-right:65px;
+    padding-left: 72px;
+    text-decoration: none;
+    
+}
+
+.green2 {
+    color: #5dc7c2;
+    font-family: oswald, ;
+    font-weight: 400;
+    font-size: 24px;
+    display: block;
+    padding-left: 54px;
+    padding-right:35px;
+    
+  }
+  .green21{
+     
+        color: #5dc7c2;
+        font-family: oswald, ;
+        font-weight: 400;
+        font-size: 24px;
+        display: block;
+        padding-left: 66px;
+        padding-right:25px;
+        
+      
+  }
+  .red1{
+    color: #da5757;
+    font-family: oswald, ;
+    font-weight: 400;
+    font-size: 24px;
+    display: block;
+    padding-left: 40px;
+    padding-right:35px;
+    
+  }
+.com{
+    height: 24px;
+    width: 24px;
+    border-radius: 45%;
+    padding-right: 10px;
+}
+
