@@ -4,6 +4,7 @@ import './Time.css'
 function Time() {
     return (
         <div className="time">
+            <div className="snap">
             <div className="slot1">
                 <div className="green1">
                     0.07 %
@@ -55,6 +56,9 @@ function Time() {
                     7 Days
 
                 </div>
+            </div>
+            
+
             </div>
             
             

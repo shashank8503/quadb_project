@@ -1,5 +1,6 @@
 .data1{
     display: flex;
+    
    
 }
 .black2{
@@ -133,4 +134,58 @@
     border-radius: 45%;
     padding-right: 10px;
 }
+@media only screen and (max-width: 1000px) {
+    .black2{
+        padding-left: 10px;
+        padding-right:11px;
+        font-size: 12px;
+    }
+    .con11{
+        width: 100%;
+        margin-left: 0px;
+        margin-right: 0px;
+        
+        
+
+    }
+    .white2,.white23,.white234,.white24{
+        font-size: 12px;
+        
+        padding-left: 10px;
+        padding-right:11px;
+        
+
+    }
+    .white25{
+        font-size: 12px;
+        padding-left: 15px;
+        padding-right:11px;
+
+    }
+    .green2,.green21,.green24{
+        font-size: 12px;
+        padding-left: 20px;
+        padding-right:7px;
+
+    }
+    .red1{
+        font-size: 12px;
+        padding-left: 15px;
+        padding-right:7px;
+
+
+    }
+    .com{
+        height:14px;
+        width: 14px;
+    }
+    
+  
+    
+ 
+ 
+ 
+  
+}
+
 
